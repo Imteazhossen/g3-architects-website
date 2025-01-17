@@ -223,7 +223,7 @@
     .teams, .features{
         flex-direction: column;
     }
-    .our-features{
+    .our-features, .footer {
         margin: 50px auto;
     }
     .sponsor-companies, .facts-container{
