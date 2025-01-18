@@ -181,13 +181,10 @@
 .footer{
     max-width: 1440px;
     margin: 0 auto;
-    padding: 18px 25px;
+    padding: 1rem 1.7rem;
     text-align: center;
     margin-top: 50px;
     margin-bottom: 50px;
-   
-    
-
 }
 /* small device media query */
 
@@ -215,6 +212,15 @@
     #experience-badge{
         margin-top: 20px;
         margin-left: 20px;
+    }
+    .footer{
+        max-width: 576px;
+        margin: 0 auto;
+        padding: 0.6rem 0.9rem;
+        text-align: center;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        
     }
 }
 
